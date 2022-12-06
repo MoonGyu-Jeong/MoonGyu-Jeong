@@ -20,7 +20,8 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&log=appveyor&logo=raspberry pi&logoColor=white"/>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&log=appveyor&logo=Qt&logoColor=white"/>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&log=appveyor&logo=Microsoft Azure&logoColor=white"/>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&log=appveyor&logo=dart&logoColor=white"/>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&log=appveyor&logo=dart&logoColor=white"/>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&log=appveyor&logo=flutter&logoColor=white"/>
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonGyu-Jeong&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
